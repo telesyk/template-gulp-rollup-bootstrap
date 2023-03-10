@@ -1,4 +1,4 @@
-# own-gulp-boilerplate
+# Gulp Bootstrap start boilerplate
 
 ### Install
 ##### Dependecies

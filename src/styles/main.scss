@@ -1,0 +1,11 @@
+:root {
+  --bs-font-sans-serif: 'Poppins', system-ui, -apple-system, 'Noto Sans',
+    'Liberation Sans', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+    'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+.test-class {
+  background-color: var(--bs-gray-800);
+  color: var(--bs-info);
+  --bs-border-color: var(--bs-blue);
+}
